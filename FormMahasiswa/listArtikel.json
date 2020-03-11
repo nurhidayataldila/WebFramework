@@ -1,0 +1,26 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1583398225198,
+      "title": "Judul1",
+      "body": "Isi1"
+    },
+    {
+      "userId": 1,
+      "id": 1583401912628,
+      "title": "Judul2",
+      "body": "Isi2"
+    },
+    {
+      "userId": 1,
+      "id": 1583401950528,
+      "title": "Judul3",
+      "body": "Isi2"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

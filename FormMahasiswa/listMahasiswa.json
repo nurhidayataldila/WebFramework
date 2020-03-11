@@ -1,0 +1,26 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nim": 180823453,
+      "nama": "Mahasiswa 1",
+      "alamat": "Jl. Soekarno Hatta No. 9 Malang",
+      "hp": "081802023249",
+      "angkatan": 2018,
+      "status": "aktif"
+    },
+    {
+      "nim": "1741720206",
+      "nama": "Nurhidayat Aldila",
+      "alamat": "Mangliawan",
+      "hp": "082137899966",
+      "angkatan": "2017",
+      "status": "Aktif",
+      "id": 1583932650810
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
